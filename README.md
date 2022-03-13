@@ -1,6 +1,6 @@
 # DL paper Review
 
-### DL Basics
+### Basics
 |Year|Conference|Paper Name|Topic|Links|
 |:---:|:---:|:---:|:---|:---:|
 |2015|ICLR|Very Deep Convolutional Networks for Large-Scale Image Recognition|CNN|[Paper](https://arxiv.org/pdf/1409.1556.pdf), [Review](https://github.com/jeonggg119/DL_paper/issues/2)|
@@ -18,3 +18,12 @@
 |2016|ICLR|Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks|GAN|[Paper](https://arxiv.org/pdf/1511.06434.pdf)|
 |2017|CVPR|Image-to-Image Translation with Conditional Adversarial Networks|GAN|[Paper](http://arxiv.org/pdf/1611.07004.pdf)|
 |2017|ICCV|Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks|GAN|[Paper](http://arxiv.org/pdf/1703.10593.pdf)|
+
+### Pose Estimation Task
+|Year|Conference|Paper Name|Links|
+|:---:|:---:|:---:|:---|:---:|
+|2014|CVPR|DeepPose: Human Pose Estimation via Deep Neural Networks|[Paper](https://arxiv.org/pdf/1312.4659.pdf), [Review](https://github.com/jeonggg119/DL_paper/issues/8)|
+|2015|CVPR|Efficient Object Localization Using Convolutional Networks|[Paper](https://arxiv.org/abs/1411.4280), [Review](https://github.com/jeonggg119/DL_paper/issues/11)|
+|2019|CVPR|Deep High-Resolution Representation Learning for Human Pose Estimation|[Paper](https://arxiv.org/pdf/1902.09212.pdf), [Review](https://github.com/jeonggg119/DL_paper/issues/12)|
+
+### Generative model Task

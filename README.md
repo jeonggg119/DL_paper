@@ -1,11 +1,5 @@
 # DL paper Review
 
-## CNN
-## STN
-## Localization & Segmentation
-## Pose Estimation Task
-## GAN
-
 |Year|Conference|Paper Name|Topic|Links|
 |:---:|:---:|:---:|:---|:---:|
 |2015|ICLR|Very Deep Convolutional Networks for Large-Scale Image Recognition|CNN|[Paper](https://arxiv.org/pdf/1409.1556.pdf), [Review](https://github.com/jeonggg119/DL_paper/issues/2)|

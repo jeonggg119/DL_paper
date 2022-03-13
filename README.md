@@ -10,8 +10,8 @@
 |2015|CVPR|Fully Convolutional Networks for Semantic Segmentation|Semantic segmentation|[Paper](https://arxiv.org/pdf/1411.4038.pdf), [Review](https://github.com/jeonggg119/DL_paper/issues/6)|
 |2016|ICLR|Multi-Scale Context Aggregation by Dilated Convolutions|Semantic segmentation|[Paper](https://arxiv.org/pdf/1511.07122.pdf), [Review](https://github.com/jeonggg119/DL_paper/issues/7)|
 |2016|CVPR|You Only Look Once: Unified, Real-Time Object Detection|Object detection|[Paper](https://arxiv.org/pdf/1506.02640.pdf)|
-|2016|CVPR|Learning Deep Features for Discriminative Localization|CNN Interpretation & Attention|[Paper](http://arxiv.org/pdf/1512.04150.pdf)|
-|2017|ICCV|Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization|CNN Interpretation & Attention|[Paper](https://arxiv.org/pdf/1610.02391.pdf)|
+|2016|CVPR|Learning Deep Features for Discriminative Localization|CNN Interpretation & Attention|[Paper](http://arxiv.org/pdf/1512.04150.pdf), [Review](https://github.com/jeonggg119/DL_paper/issues/5)|
+|2017|ICCV|Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization|CNN Interpretation & Attention|[Paper](https://arxiv.org/pdf/1610.02391.pdf), [Review](https://github.com/jeonggg119/DL_paper/issues/4)|
 |2016|CVPR|Image Style Transfer Using Convolutional Neural Networks|Graphics (Style transfer)|[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)|
 |2016|ECCV|Perceptual Losses for Real-Time Style Transfer and Super-Resolution|Graphics (Style transfer)|[Paper](https://arxiv.org/pdf/1603.08155.pdf)|
 |2014|NIPS|Generative Adversarial Nets|GAN|[Paper](https://proceedings.neurips.cc/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf)|

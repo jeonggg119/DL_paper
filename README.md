@@ -27,3 +27,6 @@
 |2019|CVPR|Deep High-Resolution Representation Learning for Human Pose Estimation|[Paper](https://arxiv.org/pdf/1902.09212.pdf), [Review](https://github.com/jeonggg119/DL_paper/issues/12)|
 
 ### Generative model Task
+|Year|Conference|Paper Name|Links|
+|:---:|:---:|---|:---:|
+|2013|-|Auto-Encoding Variational Bayes|[Paper](https://arxiv.org/pdf/1312.6114v10.pdf), [Review]()|

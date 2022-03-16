@@ -4,7 +4,7 @@
 |Year|Conference|Paper Name|Topic|Links|
 |:---:|:---:|---|---|:---:|
 |2015|ICLR|Very Deep Convolutional Networks for Large-Scale Image Recognition|CNN|[Paper](https://arxiv.org/pdf/1409.1556.pdf), [Review](https://github.com/jeonggg119/DL_paper/issues/2)|
-|2016|CVPR|Deep Residual Learning for Image Recognition|CNN|[Paper](https://arxiv.org/pdf/1512.03385.pdf)|
+|2016|CVPR|Deep Residual Learning for Image Recognition|CNN|[Paper](https://arxiv.org/pdf/1512.03385.pdf), [Review](https://github.com/jeonggg119/DL_paper/issues/21)|
 |2015|NIPS|Spatial Transformer Networks|CNN Limitation|[Paper](https://arxiv.org/pdf/1506.02025.pdf), [Review](https://github.com/jeonggg119/DL_paper/issues/3)|
 |2016|ECCV|Accelerating the Super-Resolution Convolutional Neural Network|Single image SR|[Paper](https://arxiv.org/pdf/1608.00367.pdf)|
 |2015|CVPR|Fully Convolutional Networks for Semantic Segmentation|Semantic segmentation|[Paper](https://arxiv.org/pdf/1411.4038.pdf), [Review](https://github.com/jeonggg119/DL_paper/issues/6)|

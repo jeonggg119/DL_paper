@@ -29,4 +29,4 @@
 ### Generative model Task
 |Year|Conference|Paper Name|Links|
 |:---:|:---:|---|:---:|
-|2013|-|Auto-Encoding Variational Bayes|[Paper](https://arxiv.org/pdf/1312.6114v10.pdf), [Review]()|
+|2013|-|Auto-Encoding Variational Bayes|[Paper](https://arxiv.org/pdf/1312.6114v10.pdf)|

@@ -30,3 +30,5 @@
 |Year|Conference|Paper Name|Links|
 |:---:|:---:|---|:---:|
 |2013|-|Auto-Encoding Variational Bayes|[Paper](https://arxiv.org/pdf/1312.6114v10.pdf)|
+|2014|-|NICE: Non-linear Independent Components Estimation|[Paper](https://arxiv.org/pdf/1410.8516.pdf)|
+

@@ -29,8 +29,8 @@
 ### Generative model Task
 |Year|Paper Name|Links|
 |:---:|---|:---:|
-|2013|-|Auto-Encoding Variational Bayes|[Paper](https://arxiv.org/pdf/1312.6114v10.pdf)|
+|2013|Auto-Encoding Variational Bayes|[Paper](https://arxiv.org/pdf/1312.6114v10.pdf)|
 |2014|NICE: Non-linear Independent Components Estimation|[Paper](https://arxiv.org/pdf/1410.8516.pdf)|
 |2017|Conditional Image Generation with PixelCNN Decoders|[Paper](https://arxiv.org/pdf/1606.05328v2.pdf)|
-|2016|Wasserstein GAN|[Paper](https://arxiv.org/pdf/1701.07875v3.pdf),[Review]()|
+|2016|Wasserstein GAN|[Paper](https://arxiv.org/pdf/1701.07875v3.pdf), [Review]()|
 |2017|Improved Training of Wasserstein GANs|[Paper](https://arxiv.org/pdf/1704.00028v3.pdf)|

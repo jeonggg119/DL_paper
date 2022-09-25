@@ -29,4 +29,4 @@
 ### 3D Vision
 |Year|Conference|Paper Name|Links|
 |:---:|:---:|---|:---:|
-|2017|CVPR|PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation|[Paper](https://arxiv.org/pdf/1612.00593.pdf), [Review](https://github.com/jeonggg119/DL_paper/issues/23)|
+|2017|CVPR|PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation|[Paper](https://arxiv.org/pdf/1612.00593.pdf), [Review](https://github.com/jeonggg119/DL_paper/issues/24)|

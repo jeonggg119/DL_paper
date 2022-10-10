@@ -32,4 +32,4 @@
 |2017|CVPR|PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation|[Paper](https://arxiv.org/pdf/1612.00593.pdf), [Review](https://github.com/jeonggg119/DL_paper/issues/24)|
 |2017|NIPS|PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space|[Paper](https://arxiv.org/abs/1706.02413.pdf), [Review](https://github.com/jeonggg119/DL_paper/issues/25)|
 |2019|CVPR|PointConv: Deep Convolutional Networks on 3D Point Clouds|[Paper](https://arxiv.org/abs/1811.07246.pdf), [Review](https://github.com/jeonggg119/DL_paper/issues/27)|
-|2022|ICLR|PointMLP: Rethinking Network Design and Local Geometry in Point Cloud: A Simple Residual MLP Framework|[Paper](https://arxiv.org/pdf/2202.07123.pdf), [Review](https://github.com/jeonggg119/DL_paper/issues/28)|
+|2022|ICLR|Rethinking Network Design and Local Geometry in Point Cloud: A Simple Residual MLP Framework|[Paper](https://arxiv.org/pdf/2202.07123.pdf), [Review](https://github.com/jeonggg119/DL_paper/issues/28)|

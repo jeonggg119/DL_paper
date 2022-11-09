@@ -34,3 +34,4 @@
 |2019|CVPR|PointConv: Deep Convolutional Networks on 3D Point Clouds|[Paper](https://arxiv.org/abs/1811.07246.pdf), [Review](https://github.com/jeonggg119/DL_paper/issues/27)|
 |2022|ICLR|Rethinking Network Design and Local Geometry in Point Cloud: A Simple Residual MLP Framework|[Paper](https://arxiv.org/pdf/2202.07123.pdf), [Review](https://github.com/jeonggg119/DL_paper/issues/28)|
 |2018|CVPR|VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection|[Paper](https://arxiv.org/abs/1711.06396.pdf), [Review](https://github.com/jeonggg119/DL_paper/issues/29)|
+|2020|CVPR|PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection|[Paper](https://arxiv.org/abs/1912.13192.pdf), [Review](https://github.com/jeonggg119/DL_paper/issues/30)|

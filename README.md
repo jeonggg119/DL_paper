@@ -36,3 +36,4 @@
 |2018|CVPR|VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection|[Paper](https://arxiv.org/abs/1711.06396.pdf), [Review](https://github.com/jeonggg119/DL_paper/issues/29)|
 |2020|CVPR|PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection|[Paper](https://arxiv.org/abs/1912.13192.pdf), [Review](https://github.com/jeonggg119/DL_paper/issues/30)|
 |2019|CVPR|JSIS3D: Joint Semantic-Instance Segmentation of 3D Point Clouds with Multi-Task Pointwise Networks and Multi-Value Conditional Random Fields|[Paper](https://arxiv.org/pdf/1904.00699.pdf), [Review](https://github.com/jeonggg119/DL_paper/issues/31)|
+|2020|CVPR|PolarNet: An Improved Grid Representation for Online LiDAR Point Clouds Semantic Segmentation|[Paper](https://arxiv.org/pdf/2003.14032.pdf), [Review](https://github.com/jeonggg119/DL_paper/issues/32)|

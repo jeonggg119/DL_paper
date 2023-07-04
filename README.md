@@ -26,11 +26,11 @@
 |2015|CVPR|Efficient Object Localization Using Convolutional Networks|[Paper](https://arxiv.org/abs/1411.4280), [Review](https://github.com/jeonggg119/DL_paper/issues/11)|
 |2019|CVPR|Deep High-Resolution Representation Learning for Human Pose Estimation|[Paper](https://arxiv.org/pdf/1902.09212.pdf), [Review](https://github.com/jeonggg119/DL_paper/issues/12)|
 
-### Action Recognition Task
-|Year|Conference|Type|Paper Name|Links|
-|:---:|:---:|---|:---:|:---:|
-|2018|AAAI|Skeleton-based|Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition|[Paper](https://arxiv.org/pdf/1312.4659.pdf), [Review]()|
-|2019|CVPR|Skeleton-based|Two-Stream Adaptive Graph Convolutional Networks for Skeleton-Based Action Recognition|[Paper](https://arxiv.org/abs/1805.07694.pdf), [Review]()|
+### Skeleton-based Action Recognition Task
+|Year|Conference|Paper Name|Links|
+|:---:|:---:|---|:---:|
+|2018|AAAI|Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition|[Paper](https://arxiv.org/abs/1801.07455.pdf), [Review]()|
+|2019|CVPR|Two-Stream Adaptive Graph Convolutional Networks for Skeleton-Based Action Recognition|[Paper](https://arxiv.org/abs/1805.07694.pdf), [Review]()|
 
 ### 3D Vision
 |Year|Conference|Paper Name|Links|

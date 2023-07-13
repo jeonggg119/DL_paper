@@ -31,7 +31,7 @@
 |:---:|:---:|---|:---:|
 |2018|AAAI|Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition|[Paper](https://arxiv.org/abs/1801.07455.pdf), [Review](https://github.com/jeonggg119/DL_paper/issues/36)|
 |2019|CVPR|Actional-Structural Graph Convolutional Networks for Skeleton-based Action Recognition|[Paper](https://arxiv.org/pdf/1904.12659.pdf), [Review]()|
-|2019|CVPR|Two-Stream Adaptive Graph Convolutional Networks for Skeleton-Based Action Recognition|[Paper](https://arxiv.org/abs/1805.07694.pdf), [Review]()|
+|2019|CVPR|Two-Stream Adaptive Graph Convolutional Networks for Skeleton-Based Action Recognition|[Paper](https://arxiv.org/abs/1805.07694.pdf), [Review](https://github.com/jeonggg119/DL_paper/issues/37)|
 
 ### 3D Vision
 |Year|Conference|Paper Name|Links|

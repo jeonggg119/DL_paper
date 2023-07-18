@@ -52,10 +52,10 @@
 |2018|ECCV|MVSNet: Depth Inference for Unstructured Multi-view Stereo|[Paper](https://arxiv.org/abs/1804.02505.pdf), [Review](https://github.com/jeonggg119/DL_paper/issues/35)|
 
 ### Generative Models on CV
-|Type|Paper Lists|
-|:---:|---|
-|GAN|PGGAN, StyleGAN(1,2), **WGAN**, WGAN-GP|
-|VAE|VAE, **VQVAE**, β-VAE|
-|Autoregressive|PixelSNAIL, PixelCNN++, Gated-PixelCNN|
-|Flow-based|Glow, NICE, **RealNVP**|
+|Type|Paper Lists|Link|
+|:---:|---|:---:|
+|GAN|PGGAN, StyleGAN(1,2), **WGAN**, WGAN-GP|[My Review](https://github.com/oddqueue/YBIGTA-generative-model/blob/main/GAN/WGAN.ipynb)|
+|VAE|VAE, **VQVAE**, β-VAE|[My Review](https://github.com/oddqueue/YBIGTA-generative-model/blob/main/VAE/VQVAE.ipynb)|
+|Autoregressive|PixelSNAIL, PixelCNN++, Gated-PixelCNN|-|
+|Flow-based|Glow, NICE, **RealNVP**|[My Review](https://github.com/oddqueue/YBIGTA-generative-model/blob/main/Flow-based/RealNVP.ipynb)|
 - **Repo** : [YBIGTA-generative-model-study](https://github.com/oddqueue/YBIGTA-generative-model)

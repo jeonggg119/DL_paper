@@ -19,6 +19,15 @@
 |2017|CVPR|Image-to-Image Translation with Conditional Adversarial Networks|GAN|[Paper](http://arxiv.org/pdf/1611.07004.pdf)|
 |2017|ICCV|Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks|GAN|[Paper](http://arxiv.org/pdf/1703.10593.pdf)|
 
+### Generative Models on CV
+- [Repo]([https://arxiv.org/pdf/1312.4659.pdf](https://github.com/oddqueue/YBIGTA-generative-model))
+|Type|Paper Lists|
+|:---:|---|
+|GAN|PGGAN, StyleGAN(1,2), **WGAN**, WGAN-GP|
+|VAE|VAE, **VQVAE**, β-VAE|
+|Autoregressive|PixelSNAIL, PixelCNN++, Gated-PixelCNN|
+|Flow-based|Glow, NICE, **RealNVP**|
+
 ### Pose Estimation
 |Year|Conference|Paper Name|Links|
 |:---:|:---:|---|:---:|

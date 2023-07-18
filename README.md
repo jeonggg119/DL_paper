@@ -19,15 +19,6 @@
 |2017|CVPR|Image-to-Image Translation with Conditional Adversarial Networks|GAN|[Paper](http://arxiv.org/pdf/1611.07004.pdf)|
 |2017|ICCV|Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks|GAN|[Paper](http://arxiv.org/pdf/1703.10593.pdf)|
 
-### Generative Models on CV
-|Type|Paper Lists|
-|:---:|---|
-|GAN|PGGAN, StyleGAN(1,2), **WGAN**, WGAN-GP|
-|VAE|VAE, **VQVAE**, β-VAE|
-|Autoregressive|PixelSNAIL, PixelCNN++, Gated-PixelCNN|
-|Flow-based|Glow, NICE, **RealNVP**|
-- **Repo** : [YBIGTA-generative-model-study](https://github.com/oddqueue/YBIGTA-generative-model)
-
 ### Pose Estimation
 |Year|Conference|Paper Name|Links|
 |:---:|:---:|---|:---:|
@@ -59,3 +50,12 @@
 |Year|Conference|Paper Name|Links|
 |:---:|:---:|---|:---:|
 |2018|ECCV|MVSNet: Depth Inference for Unstructured Multi-view Stereo|[Paper](https://arxiv.org/abs/1804.02505.pdf), [Review](https://github.com/jeonggg119/DL_paper/issues/35)|
+
+### Generative Models on CV
+|Type|Paper Lists|
+|:---:|---|
+|GAN|PGGAN, StyleGAN(1,2), **WGAN**, WGAN-GP|
+|VAE|VAE, **VQVAE**, β-VAE|
+|Autoregressive|PixelSNAIL, PixelCNN++, Gated-PixelCNN|
+|Flow-based|Glow, NICE, **RealNVP**|
+- **Repo** : [YBIGTA-generative-model-study](https://github.com/oddqueue/YBIGTA-generative-model)
